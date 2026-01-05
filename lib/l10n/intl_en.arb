@@ -1,0 +1,53 @@
+{
+  "@@locale": "en",
+  "appTitle": "Habit Hero",
+  "home": "Home",
+  "quests": "Quests",
+  "achievements": "Achievements",
+  "stats": "Stats",
+  "settings": "Settings",
+  "dailyQuests": "Daily Quests",
+  "weeklyQuests": "Weekly Quests",
+  "addQuest": "Add Quest",
+  "questName": "Quest Name",
+  "description": "Description",
+  "expReward": "EXP Reward",
+  "targetCount": "Target Count",
+  "cancel": "Cancel",
+  "save": "Save",
+  "add": "Add",
+  "delete": "Delete",
+  "completed": "Completed",
+  "pending": "Pending",
+  "level": "Level",
+  "experience": "Experience",
+  "streak": "Streak",
+  "todayProgress": "Today's Progress",
+  "totalCompleted": "Completed Quests",
+  "totalExp": "Total EXP",
+  "unlocked": "Unlocked",
+  "locked": "Locked",
+  "profile": "Profile",
+  "appearance": "Appearance",
+  "darkMode": "Dark Mode",
+  "language": "Language",
+  "about": "About",
+  "version": "Version",
+  "reset": "Reset Progress",
+  "resetConfirm": "Are you sure you want to reset all progress? This action cannot be undone.",
+  "congratulations": "Congratulations!",
+  "levelUp": "Level up to Lv.{level}",
+  "@levelUp": {
+    "placeholders": {
+      "level": {
+        "type": "int"
+      }
+    }
+  },
+  "goodMorning": "Good Morning",
+  "goodAfternoon": "Good Afternoon",
+  "goodEvening": "Good Evening",
+  "noQuests": "No quests yet",
+  "noAchievements": "No achievements unlocked",
+  "recordOnce": "Record Once"
+}
